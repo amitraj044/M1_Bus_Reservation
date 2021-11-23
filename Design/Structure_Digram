@@ -1,0 +1,13 @@
+         
+  USER<<---Output-------- 
+    \                   |
+      \                 |
+        \ <--input      |
+          \             |
+            \           |
+            Bus Reservation
+                 |
+                 |
+     -----------------------
+     |        |            |
+ Booking     Avability    Cancellarion
